@@ -8,6 +8,7 @@ const UserDetails = () => {
   return (
     <div>
         <h2 className="">Details About user : {name} </h2>
+        
         </div>
   )
 }
